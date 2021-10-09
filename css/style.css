@@ -371,7 +371,7 @@ img{
 }
 
 .border-green{
-	border: solid 5px #2c3f1c;
+	border: solid 5px ##161b33;
 }
 
 .border-white{
@@ -382,7 +382,7 @@ img{
 	position: relative;
 	bottom: 275px;
 	left: 185px;
-	background-color: #181923;
+	background-color: #b4cded;
 	height: 300px;
 	width: 300px;
 	z-index: 1;
