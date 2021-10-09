@@ -385,7 +385,7 @@ img{
 .image-dec-r{
 	position: relative;
 	bottom: 275px;
-	left: 110px;
+	left: 100px;
 	background-color: #b4cded;
 	height: 300px;
 	width: 300px;
@@ -393,7 +393,7 @@ img{
 }
 
 .corner-dec{
-	width: 500px;
+	width: 400px;
 	height: 800px;
 }
 
