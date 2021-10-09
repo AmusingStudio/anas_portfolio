@@ -50,7 +50,6 @@ nav ul li:hover{
 	text-decoration: underline;
 	background-color: #b4cded;
 	border-right: 10px #1a280e;
-	color: #000;
 }
 
 
@@ -64,7 +63,7 @@ nav ul li a{
 
 
 nav ul li a:hover{
-	color: #fff;
+	color: #000;
 }
 
 
@@ -473,7 +472,7 @@ p.hire{
 }
 
 #hire-button:hover{
-	background-color: #f8fdf9;
+	background-color: #b4cded;
 }
 
 #hire-button p:hover{
