@@ -273,6 +273,11 @@ footer{
 	text-decoration: underline;
 }
 
+.button li a:hover{
+	color: #000;
+
+}
+
 .spacing-fix{
 	margin-left: 40px;
 }
