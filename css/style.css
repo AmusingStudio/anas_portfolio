@@ -48,7 +48,7 @@ nav ul li{
 
 nav ul li:hover{
 	text-decoration: underline;
-	background-color: #213213;
+	background-color: #b4cded;
 	border-right: 10px #1a280e;
 }
 
@@ -184,7 +184,7 @@ footer{
 
 
 .green{
-	background-color: #2c3f1c;
+	background-color: #161b33;
 	height: 20px;
 	width: 150px;
 	border-radius: 2px;
